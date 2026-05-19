@@ -7,9 +7,9 @@ The system is designed to act as an automated front-desk assistant, lead managem
 ---
 
 ## 🚀 Live Demo & Deployment
-*   **GitHub Repository:** *Coming soon*
-*   **Live Hosted App:** *Coming soon*
-*   **5-7 Min Demo Video:** *Coming soon*
+*   **GitHub Repository:** https://github.com/Rihanpathan/codenixia-ai-assistant
+*   **Live Hosted App:** https://rihanpathan-codenixia-ai-assistant-app-mjvpun.streamlit.app
+*   **5-7 Min Demo Video:** 
 
 ---
 
