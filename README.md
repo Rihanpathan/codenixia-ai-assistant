@@ -15,6 +15,8 @@ The system is designed to act as an automated front-desk assistant, lead managem
 
 ## 📊 System Architecture Diagram
 
+![System Architecture Diagram](architecture.png)
+
 Below is the conceptual architecture showing how data, AI, databases, and SMTP email services interact seamlessly:
 
 ```
