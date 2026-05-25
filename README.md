@@ -1,3 +1,5 @@
+**AI-Powered Business Automation Assistant**
+
 # 🤖 Codenixia AI-Powered Business Automation Assistant
 
 Welcome to the **Codenixia AI-Powered Business Automation Assistant** repository! This application is built as a complete, production-grade assessment project for the **Codenixia AI / LLM / Automation Internship Program (Round 1)**.
